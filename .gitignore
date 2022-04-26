@@ -72,3 +72,8 @@ hs_err_pid*
 /RemoteSystemsTempFiles/
 /.project
 /.settings/
+
+*.settings
+*.classpath
+*.project
+
